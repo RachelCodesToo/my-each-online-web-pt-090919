@@ -1,3 +1,6 @@
-def my_each # put argument(s) here
+def my_eachz(collection)
+  # put argument(s) here
   # code here
+  
+  while
 end
