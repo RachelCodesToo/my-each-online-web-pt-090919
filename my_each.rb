@@ -1,6 +1,5 @@
 def my_eachz(collection)
-  # put argument(s) here
-  # code here
+  i = 0 
   
   while
 end
