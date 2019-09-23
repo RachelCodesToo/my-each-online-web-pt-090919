@@ -1,6 +1,6 @@
 def my_eachz(collection)
   i = 0 
-  while i < array. length 
+  while i.each do < array. length 
    yield(array[i])
     i += 1 
   end 
